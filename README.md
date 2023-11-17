@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/18g_tSii)
 # Exercise 3: Diffusion and Dodson's equations (20 points)
 
 The goal of this week's exercise is to explore the diffusion equation and how it can be applied to interpret mineral cooling ages measured using thermochronology. We'll start with exploring the diffusion equation in general and then move to Dodson's equations and how they can be applied to calculate an effective closure temperature for a thermochronometer. As a reminder, the effective closure temperature is the temperature the mineral at the time of its age.
