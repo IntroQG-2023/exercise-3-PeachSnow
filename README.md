@@ -28,11 +28,11 @@ Before starting to work with the problems for this week, you should start a new 
 There are 2 problems for this week in one notebook.
 
 - [Problems 1-2: Diffusion and Dodson's equations (20 points)](Exercise-3-problems-1-2.ipynb)
-## Exercise 3 grade and feedback: 11.5 / 20.0 points
+## Exercise 3 grade and feedback: 20.0 / 20.0 points
 ### Grader
-- graderbot (*awaiting review by a course grader!*)
+- Leevi
 ### Problem scores
-- Problem 1: 2.0 / 6.0 
-- Problem 2: 9.5 / 14.0 
+- Problem 1: 6.0 / 6.0 
+- Problem 2: 14.0 / 14.0 
 ### Comments
-- Comments will be added here.
+- Well done!
